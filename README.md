@@ -1,1 +1,1 @@
-# Juego-de-programaci-n-grafica-Gay-as-fuck
+# Juego-de-programaci-n-grafica
