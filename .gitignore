@@ -1,0 +1,15 @@
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Build/*
+
+.vs/
+*.sln
+*.suo
+*.pdb
+
+*.tmp
+*.log
+
+
