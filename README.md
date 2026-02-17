@@ -1,1 +1,1 @@
-# Juego-de-programaci-n-grafica
+# Juego-de-programacion-grafica
