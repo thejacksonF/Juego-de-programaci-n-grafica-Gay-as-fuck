@@ -1,4 +1,4 @@
-Binaries/*
+iBinaries/*
 DerivedDataCache/*
 Intermediate/*
 Saved/*
@@ -11,5 +11,6 @@ Build/*
 
 *.tmp
 *.log
-
+Content/Developers/
+FileOpenOrder/
 
